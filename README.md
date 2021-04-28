@@ -1,7 +1,7 @@
 # Hi everyone 👋
-##### 🌱 I’m currently learning React
-##### 👯 I’m looking to collaborate on ReactJS & ReactNative
-##### 📫 How to reach me: [derian.id](https://derian.id/)
+#### 🌱 I’m currently learning React
+#### 👯 I’m looking to collaborate on ReactJS & ReactNative
+#### 📫 How to reach me: [derian.id](https://derian.id/)
 
 
 <!--
