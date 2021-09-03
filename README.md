@@ -1,6 +1,6 @@
 # Hi everyone 👋
-- #### 🌱 I’m currently learning React
-- #### 👯 I’m looking to collaborate on ReactJS & ReactNative
+- #### 🌱 I’m currently learning React & Flutter
+- #### 👯 I’m looking to collaborate on ReactJS, ReactNative & Flutter
 - #### 📫 How to reach me: [derian.id](https://derian.id/)
 
 
